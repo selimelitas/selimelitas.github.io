@@ -1,12 +1,12 @@
 ---
-title: "Book Reviews 3"
+title: "Book Reviews 1"
 collection: publications
 category: article
 permalink: /publication/2025
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-03-26
 venue: 'GitHub Journal of Bugs'
-paperurl: 'https://www.academia.edu/127643789/%C4%B0NSANO%C4%9ELUNUN_VAR_OLU%C5%9EUNUN_%C4%B0ZAHI
+paperurl: 'https://www.academia.edu/127643789/%C4%B0NSANO%C4%9ELUNUN_VAR_OLU%C5%9EUNUN_%C4%B0ZAHI'
 citation: 'Selim Elitaş,(2025). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
