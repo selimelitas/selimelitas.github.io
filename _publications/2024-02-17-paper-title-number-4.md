@@ -1,13 +1,11 @@
 ---
-title: "Book Reviews 1"
+title: "Paper Title Number 1"
 collection: publications
-category: article
-permalink: /publication/2025-03-26-book-reviews-1
-excerpt: 'This paper is about fixing template issue #693.'
+category: manuscripts
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-03-26
-venue: '1'
-paperurl: 'https://www.academia.edu/127643789/%C4%B0NSANO%C4%9ELUNUN_VAR_OLU%C5%9EUNUN_%C4%B0ZAHI'
-citation: 'Selim Elitaş,(2025). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
----
-
+venue: 'Journal 1'
+paperurl: 'https://anadolu.academia.edu/SelimElitaş'
+citation: 'Selim Elitaş, You. (2025). &quot;Paper Title Number 1.&quot;<i>Journal 1</i>. 1(1).'
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
