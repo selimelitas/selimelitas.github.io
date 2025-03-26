@@ -22,7 +22,7 @@ repository               : "selimelitas/selimelitas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sel.png"
   name             : "Selim Elitaş"
   pronouns         : # example: "she/her"  
   bio              : "Elektronik, Yazılım, Pardus, Linux hakkında paylaşımlar" 
@@ -72,7 +72,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "@selimelitas6959"
+  youtube          : "selimelitas6959"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
