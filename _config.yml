@@ -28,7 +28,7 @@ author:
   bio              : "Elektronik, Yazılım, Pardus, Linux hakkında paylaşımlar" 
   location         : "İstanbul,Türkiye"
   employer         : "Anadolu University"
-  uri              : "https://www.anadolu.edu.tr"
+  uri              : # URL
   email            : "selimelitas7@gmail.com" 
 
   # Academic websites
