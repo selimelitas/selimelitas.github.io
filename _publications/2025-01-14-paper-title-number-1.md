@@ -2,9 +2,9 @@
 title: "Review 1"
 collection: publications
 category: books
-permalink: /publication/2025-03-27-paper-title-number-1
-excerpt: 'This paper is about THE HISTORY by '
-date: 2025-03-27
+permalink: /publication/2025-01-14-paper-title-number-1
+excerpt: 'This paper is a review about What is History by Edward Hallet Carr'
+date: 2025-01-14
 venue: 'Academia.edu'
 paperurl: 'https://academia.edu/127395869/TARİH_NEDİR'
 ---
