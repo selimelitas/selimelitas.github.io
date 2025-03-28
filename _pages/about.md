@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 I am a retired Electronics Technician.I am interested in Linux,Electronics,Software,Computers and History.
-=====
+
