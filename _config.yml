@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-TR"
 site_theme               : "default"
 title                    : "Selim's Homepage"
 title_separator          : "-"
