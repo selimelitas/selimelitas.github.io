@@ -2,7 +2,7 @@
 title: "Review 2"
 collection: publications
 category: books
-permalink: /publication/2025-01-14-paper-title-number-1
+permalink: /publication/2025-01-14-paper-title-number-2
 excerpt: 'This paper is a review about What is History by Edward Hallet Carr'
 date: 2025-01-14
 venue: 'Academia.edu'

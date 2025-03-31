@@ -1,8 +1,8 @@
 ---
-title: "Review 2"
+title: "Review 3"
 collection: publications
 category: books
-permalink: /publication/2025-01-30-paper-title-number-1
+permalink: /publication/2025-01-30-paper-title-number-3
 excerpt: 'This paper is a review about Dündar Taşerin Büyük Türkiyesi by Ziya Nur Aksun'
 date: 2025-01-30
 venue: 'Academia.edu'
