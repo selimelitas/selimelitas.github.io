@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hello I'm Selim Elitaş "
-excerpts:"sel1"
+excerpt:"sel1"
 author_profile: true
 redirect_from: 
   - /about/
