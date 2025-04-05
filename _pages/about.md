@@ -10,4 +10,4 @@ redirect_from:
 
 I am a retired Electronics Technician.I am interested in Linux,Electronics,Software,Computers and History.
 
-(images/sel1.jpg){: .align-center width="300px"}
+![image homepage](images/sel1.jpg){: .align-center width="300px"}
