@@ -31,3 +31,7 @@ Launch/search mode: Snake or circle search
 Warhead: 96.8 lb (44 kg)[3] of PBXN-103 high explosive (bulk charge)
 
 Date Deployed: 1967 (Mod 0);[3] 1979 (Mod 5) 
+
+https://www.turbosquid.com/3d-models/mk-46-lightweight-torpedo-971977
+
+https://www.cgtrader.com/3d-models/military/gun/mk-46-lightweight-torpedo
