@@ -6,6 +6,9 @@ permalink: /publication/2025-01-14-paper-title-number-2
 excerpt: 'This paper is a review about What is History by Edward Hallet Carr'
 date: 2025-01-14
 venue: 'Academia.edu'
-paperurl: 'https://academia.edu/127395869/TARİH_NEDİR'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+TARİH NEDİR?
+
+By Selim Elitaş
+
+Tarih, zaman içindeki her türlü değişimin incelenmesi bilimidir. Siyasi,ekonomik, bilimsel, teknolojik, tıbbi, kültürel, entelektüel, dini ve askeri ve sosyal gelişmelerin hepsi tarihin birer parçasıdır. Aslında tarih edinilmiş becerilerin kuşaktan kuşağa iletilmesi ile bir yönden ilerleme işidir. Bu herkes için aynı anlama gelmez ve gelemez. 1 Genellikle profesyonel tarihçiler tarihin belirli bir yönü, belirli bir zaman dilimi, belirli bir coğrafi bölge veya yaklaşım tarzı olarak konusunda [Read More](https://academia.edu/127395869/TARİH_NEDİR)
