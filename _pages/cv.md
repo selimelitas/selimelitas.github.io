@@ -9,56 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Eğitim
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* [Okul adı], [Bölüm], [Yıl]
 
-Work experience
+İş Deneyimi
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Elektronik Teknisyeni (Emekli)
+  * [Kurum adı] — [Başlangıç–Bitiş yılı]
+  * Görevler: [Arıza tespiti, bakım-onarım, vb. — kısaca yaz]
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Beceriler
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Elektronik devre analizi ve arıza tespiti (multimetre, osiloskop vb.)
+* Linux (özellikle Pardus)
+* Python
+* GTK4 ile masaüstü uygulama geliştirme
+* Sanallaştırma (VirtualBox — USB boot imajı araçları)
 
-Publications
+Yayınlar
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+
+Eğitmenlik
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
